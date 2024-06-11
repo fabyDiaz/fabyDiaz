@@ -1,3 +1,5 @@
+![portada](https://github.com/fabyDiaz/fabyDiaz/blob/master/portada.png)
+
 ### 💫 Sobre mi:
 Soy Ingeniera Civil Industrial con una perspectiva sistémica y una sólida base en gestión, economía, tecnologías de la información, operaciones y métodos cuantitativos. Me apasiona el desarrollo de software y estoy decidida a dedicarme profesionalmente a este campo. Mi objetivo es aplicar mis habilidades y conocimientos para crear soluciones tecnológicas innovadoras y eficientes.
 
