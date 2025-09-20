@@ -1,6 +1,3 @@
-<div align="center">
-  <img src="https://github.com/fabyDiaz/fabyDiaz/blob/master/portada.png" alt="Portada - Fabiola Díaz" width="100%"/>
-
 # 👋 ¡Hola! Soy Fabiola Díaz
   
   <h3>🚀 Desarrolladora Full Stack | Ingeniera Civil Industrial</h3>
