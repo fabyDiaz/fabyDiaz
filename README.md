@@ -3,7 +3,7 @@
   <h3>🚀 Desarrolladora Full Stack | Ingeniera Civil Industrial</h3>
   <p><em>Transformando ideas en código, un proyecto a la vez</em></p>
   
-  [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visitar-6c5ce7?style=for-the-badge)](https://fabydias.github.io)
+  [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visitar-6c5ce7?style=for-the-badge)](https://fabydiaz.github.io)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/fabioladiaznarvaez/)
   [![Discord](https://img.shields.io/badge/Discord-Chatear-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/fabiola.dn)
 </div>
@@ -35,7 +35,7 @@ class Developer {
 
 **🎯 Mi enfoque:** Combino mi formación en Ingeniería Civil Industrial con mi pasión por el desarrollo de software para crear soluciones robustas y escalables. Me especializo en backend con Java/Spring Boot y desarrollo móvil con Kotlin/Android.
 
-> 🌐 **Explora mi trabajo completo en:** [fabydias.github.io](https://fabydias.github.io)
+> 🌐 **Conoce un poco mas de mis trabajos en:** [fabydias.github.io](https://fabydiaz.github.io)
 
 ---
 
@@ -86,8 +86,8 @@ class Developer {
 - **📊 Dashboard Administrativo** - Panel de control con Spring Boot y Thymeleaf
 
 <div align="center">
-  <a href="https://fabydias.github.io/proyectos.html">
-    <img src="https://img.shields.io/badge/📂_Ver_Todos_los_Proyectos-fabydias.github.io-6c5ce7?style=for-the-badge&logo=github&logoColor=white" alt="Ver todos los proyectos"/>
+  <a href="https://fabydiaz.github.io/proyectos.html">
+    <img src="https://img.shields.io/badge/📂_Ver_Todos_los_Proyectos-fabydiaz.github.io-6c5ce7?style=for-the-badge&logo=github&logoColor=white" alt="Ver todos los proyectos"/>
   </a>
 </div>
 
@@ -131,7 +131,7 @@ class Developer {
 
   <br>
   
-  [![Portfolio](https://img.shields.io/badge/🌐_Mi_Portfolio-fabydias.github.io-6c5ce7?style=for-the-badge&logoColor=white)](https://fabydias.github.io)
+  [![Portfolio](https://img.shields.io/badge/🌐_Mi_Portfolio-fabydias.github.io-6c5ce7?style=for-the-badge&logoColor=white)](https://fabydiaz.github.io)
   
   [![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-Conectar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/fabioladiaznarvaez/)
 
