@@ -35,7 +35,7 @@ class Developer {
 
 **🎯 Mi enfoque:** Combino mi formación en Ingeniería Civil Industrial con mi pasión por el desarrollo de software para crear soluciones robustas y escalables. Me especializo en backend con Java/Spring Boot y desarrollo móvil con Kotlin/Android.
 
-> 🌐 **Conoce un poco mas de mis trabajos en:** [fabydias.github.io](https://fabydiaz.github.io)
+> 🌐 **Conoce un poco mas de mis trabajos en:** [fabydiaz.github.io](https://fabydiaz.github.io)
 
 ---
 
@@ -70,20 +70,19 @@ class Developer {
 
 <div align="center">
 
-| 📱 AlkeWallet | 🌐 Sistema de Gestión | 🏪 E-commerce |
+| 📱 AlkeWallet | 🌐 IoT API - Proyecto Final | 🏪 E-commerce |
 |:---:|:---:|:---:|
-| **Billetera Digital Android** | **Aplicación Web Full Stack** | **WordPress + WooCommerce** |
-| ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white) ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white) | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white) | ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white) ![WooCommerce](https://img.shields.io/badge/WooCommerce-96588A?style=flat-square&logo=woocommerce&logoColor=white) |
-| Gestión de finanzas personales con arquitectura MVVM | Sistema completo con autenticación JWT y API REST | Tienda online personalizada con Divi |
-| [📋 Ver Código](https://github.com/fabyDiaz/Modulo5--Arquitectura-y-ciclo-de-vida-de-componentes-Android/tree/version5) | [📋 Ver Repositorio](#) | [🌐 Ver Sitio](#) |
+| **Billetera Digital Android** | **API REST para Dispositivos IoT** | **WordPress + WooCommerce** |
+| ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white) ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white) | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white) | ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white) ![WooCommerce](https://img.shields.io/badge/WooCommerce-96588A?style=flat-square&logo=woocommerce&logoColor=white) |
+| Implementa patrón MVVM, API REST y base de datos local. | API para recolección de datos IoT (ESP32/Zigbee) con Spring Security y Swagger | Tienda online personalizada con Divi |
+| [📋 Ver Código](https://github.com/fabyDiaz/Modulo5--Arquitectura-y-ciclo-de-vida-de-componentes-Android/tree/version5) | [📋 Ver Repositorio](https://github.com/fabyDiaz/Proyecto-final-e1) | [🌐 Ver Sitio](https://curaumasabor.cl/) |
 
 </div>
 
 ### 🎯 Otros Proyectos Interesantes
-
 - **🧪 Suite de Automatización de Pruebas** - Framework con Selenium, JUnit 5 y TestNG
 - **⚡ API Testing con JMeter** - Pruebas de rendimiento y carga
-- **📊 Dashboard Administrativo** - Panel de control con Spring Boot y Thymeleaf
+- **📊 Sistema de Inventario Full Stack** - Panel de control completo con Spring Boot y Angular
 
 <div align="center">
   <a href="https://fabydiaz.github.io/proyectos.html">
@@ -110,10 +109,10 @@ class Developer {
 
 <div align="center">
 
-| 🎓 **Desarrollo Full Stack Java** | 📱 **Desarrollo Android Kotlin** | 🧪 **Automatización de Pruebas** |
-|:---:|:---:|:---:|
-| Talento Digital - Chile | Bootcamp Especializado | Testing & QA |
-| [![Certificado](https://img.shields.io/badge/Ver_Certificado-6c5ce7?style=for-the-badge)](https://www.acreditta.com/credential/48ecadaa-c5b9-4373-b87e-cba3dc9543b5) | [![Certificado](https://img.shields.io/badge/Ver_Certificado-6c5ce7?style=for-the-badge)](https://www.acreditta.com/credential/2f104451-bf5e-463a-a1db-7cfbda2ae2ff) | [![En Curso](https://img.shields.io/badge/En_Curso-FFA500?style=for-the-badge)](#) |
+| 🎯 **Desarrollo Back End Java** | 🎓 **Desarrollo Full Stack Java** | 📱 **Desarrollo Android Kotlin** | 🧪 **Automatización de Pruebas** |
+|:---:|:---:|:---:|:---:|
+| Especialización Backend | Talento Digital - Chile | Bootcamp Especializado | Testing & QA |
+| [![Certificado](https://img.shields.io/badge/Ver_Certificado-6c5ce7?style=for-the-badge)](https://view.pok.tech/c/c8d7b92b-661a-47d8-9ab0-0058c57f2dda) | [![Certificado](https://img.shields.io/badge/Ver_Certificado-6c5ce7?style=for-the-badge)](https://www.acreditta.com/credential/48ecadaa-c5b9-4373-b87e-cba3dc9543b5?utm_source=copy&resource_type=badge&resource=48ecadaa-c5b9-4373-b87e-cba3dc9543b5) | [![Certificado](https://img.shields.io/badge/Ver_Certificado-6c5ce7?style=for-the-badge)](https://www.acreditta.com/credential/2f104451-bf5e-463a-a1db-7cfbda2ae2ff?utm_source=copy&resource_type=badge&resource=2f104451-bf5e-463a-a1db-7cfbda2ae2ff) | [![En Curso](https://img.shields.io/badge/En_Curso-FFA500?style=for-the-badge)](#) |
 
 </div>
 
@@ -131,7 +130,7 @@ class Developer {
 
   <br>
   
-  [![Portfolio](https://img.shields.io/badge/🌐_Mi_Portfolio-fabydias.github.io-6c5ce7?style=for-the-badge&logoColor=white)](https://fabydiaz.github.io)
+  [![Portfolio](https://img.shields.io/badge/🌐_Mi_Portfolio-fabydiaz.github.io-6c5ce7?style=for-the-badge&logoColor=white)](https://fabydiaz.github.io)
   
   [![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-Conectar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/fabioladiaznarvaez/)
 
@@ -144,7 +143,7 @@ class Developer {
   
   <br><br>
   
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=16&pause=1000&color=6C5CE7&center=true&vCenter=true&random=false&width=600&lines=%E2%9C%A8+Gracias+por+visitar+mi+perfil!;%F0%9F%9A%80+Explora+mis+proyectos+en+fabydias.github.io;%F0%9F%92%9C+Let's+build+something+amazing+together!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=16&pause=1000&color=6C5CE7&center=true&vCenter=true&random=false&width=600&lines=%E2%9C%A8+Gracias+por+visitar+mi+perfil!;%F0%9F%9A%80+Explora+mis+proyectos+en+fabydiaz.github.io;%F0%9F%92%9C+Let's+build+something+amazing+together!" alt="Typing SVG" />
   
   <br>
   
